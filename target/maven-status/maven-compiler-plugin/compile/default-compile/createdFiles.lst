@@ -1,0 +1,7 @@
+com\performance\centre\delegate\RandomQuoteDelegate.class
+com\performance\centre\dao\IBusinessDao.class
+com\performance\centre\controller\RandomMessageController.class
+com\performance\centre\delegate\IBusinessDelegate.class
+com\performance\centre\model\IModel.class
+com\performance\centre\model\Quote.class
+com\performance\centre\dao\RandomQuoteDao.class
